@@ -1,0 +1,67 @@
+{
+ "name": "Viktor",
+ "type": "personal_chat",
+ "id": 11111111,
+ "messages": [
+  {
+   "id": 11111111,
+   "type": "message",
+   "date": "11111111",
+   "date_unixtime": "11111111",
+   "from": "Viktor",
+   "from_id": "11111111",
+   "text": "Шел медведь по лесу",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Шел медведь по лесу"
+    }
+   ]
+  },
+  {
+   "id": 11111111,
+   "type": "message",
+   "date": "11111111",
+   "date_unixtime": "11111111",
+   "from": "ооо",
+   "from_id": "11111111",
+   "text": "?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "?"
+    }
+   ]
+  },
+  {
+   "id": 11111111,
+   "type": "message",
+   "date": "11111111",
+   "date_unixtime": "11111111",
+   "from": "Viktor",
+   "from_id": "11111111",
+   "text": "Видит - машина горит. Сел в нее и сгорел)",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Видит - машина горит. Сел в нее и сгорел)"
+    }
+   ]
+  },
+  {
+   "id": 11111111,
+   "type": "message",
+   "date": "11111111",
+   "date_unixtime": "11111111",
+   "from": "ооо",
+   "from_id": "11111111",
+   "text": "ахахахахахахаххахаха",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ахахахахахахаххахаха"
+    }
+   ]
+  }
+ ]
+}
