@@ -9,7 +9,7 @@
 - [Examples](#examples)
 - [License](#license)
 - [Contributing](#contributing)
-- [Authors](#authors)
+- [Author](#author)
 
 ## Description
 
@@ -69,7 +69,8 @@ Replace "participant_name" with the sender's name, "message_text" with the conte
 ## Examples
 
 I copied this readme template from the Internet and I do not know what to indicate in the examples, everything seems to be clear anyway. But here is the cat:
-         ,    ,
+```
+         ,    ,	 
         | \--/ |
         ( (0_0)(
          \==Y==/
@@ -77,11 +78,11 @@ I copied this readme template from the Internet and I do not know what to indica
        _/ < ; (;
       / ,_ |_|_\
      ( _,,)\,,),)
-     \ '.___
+     \ '.___ 
       '-----'
-
+```
 However, here is an example of how it works:
-
+```
 main.py
  
 1 Арнольд Шварцнегер
@@ -118,7 +119,7 @@ main.py
 Самое длинное сообщение|Longest message: это самое длинное сообщение, в нем много полезной информации. вы не поверите, но с новой кисточкой от максфактор мои ресницы вышли из-под контроля и накинулись на ученых, которые испытывали на них новое биологическое оружие. в результате укусов и скрещивания их днк появился новый вирус, делающий людей агрессивными, голодными и невосприимчивыми к боли. в первый же день было заражено более 40 тысяч человек, я собственными глазами видел, как люди, укушенные ресницами, в считанные минуты сами становились ресницами и набрасывались на своих друзей и родных. планету охватила паника, вирус распространился так быстро, что мы лишились наших лидеров, лишились надежды, потеряли всё. даже те, кому удалось остаться не зараженными, начали терять свой человеческий облик, человеческий разум. мир погрузился во тьму. тьму объёмную, длинную и без комочков. проклятый максфактор.
 Вывести словарь? 1/0|Print the dictionary? 1/0
 0
-
+```
 
 
 ## License
@@ -130,16 +131,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions are welcome! If you find any issues or want to add new features, feel free to create a pull request. I'm new to programming and this is my first github project, any feedback would be greatly appreciated.
 
-## Authors
 
-     _________
-    / ======= \
-   / __________\
-  | ___________ |
-  | |     ыыы | |
-  | | 0_0     | |
-  | |_________| |________________________
-  \=____________/   Galuzinogeniy(https://github.com/Galuzinogeniy))
-  / """"""""""" \                       /
- / ::::::::::::: \                  =D-'
-(_________________)
+
+## Author
+```
+     _________  
+    / ======= \  
+   / __________\    
+  | ___________ |  
+  | |     ыыы | |  
+  | | 0_0     | |  
+  | |_________| |__________________  
+  \=____________/   Galuzinogeniy   )  
+  / """"""""""" \                  /  
+ / ::::::::::::: \             =D-'  
+(_________________)  
