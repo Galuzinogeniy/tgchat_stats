@@ -1,4 +1,4 @@
-# tgchat_stats
+# tgchat_stats (Old format)
 
 ## Table of Contents
 
